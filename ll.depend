@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672667655 source:c:\users\leon\desktop\Основи програмування\ll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h.>
+
